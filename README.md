@@ -1,8 +1,8 @@
 
-# Employee Salary Prediction (ML vs DL)
+# Employee Performance Prediction (ML vs DL)
 
 ## 📌 Project Overview
-This project compares Machine Learning and Deep Learning models for predicting employee salary using HR dataset.
+This project compares Machine Learning and Deep Learning models for predicting employee performance using HR dataset.
 
 ## 📊 Models Used
 - Linear Regression
